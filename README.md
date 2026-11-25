@@ -1,4 +1,4 @@
-# Lab 1 — Developer Portfolio
+ # Lab 1 — Developer Portfolio
 
 **Course:** Web Technologies  
 **Lab:** 1 — Web Development Environment + Developer Portfolio
@@ -27,5 +27,3 @@ A four-page responsive developer portfolio built with semantic HTML5 and externa
 ## Contact form note
 The form demonstrates client-side HTML validation only. It does not send or store messages because a backend is outside the scope of Lab 1.
 
-## Before submission
-Replace `Your Name` with your own name in `index.html` and update the About page with your own short introduction. Test all four navigation links and take screenshots of your own running project.
